@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vin-decoder/static/css/main.f26f4156.chunk.css",
+    "main.js": "/vin-decoder/static/js/main.84938c7a.chunk.js",
+    "main.js.map": "/vin-decoder/static/js/main.84938c7a.chunk.js.map",
+    "runtime-main.js": "/vin-decoder/static/js/runtime-main.50e0ba54.js",
+    "runtime-main.js.map": "/vin-decoder/static/js/runtime-main.50e0ba54.js.map",
+    "static/js/2.856566ce.chunk.js": "/vin-decoder/static/js/2.856566ce.chunk.js",
+    "static/js/2.856566ce.chunk.js.map": "/vin-decoder/static/js/2.856566ce.chunk.js.map",
+    "index.html": "/vin-decoder/index.html",
+    "precache-manifest.47e38e9cc1e872186103d4078a326cbe.js": "/vin-decoder/precache-manifest.47e38e9cc1e872186103d4078a326cbe.js",
+    "service-worker.js": "/vin-decoder/service-worker.js",
+    "static/css/main.f26f4156.chunk.css.map": "/vin-decoder/static/css/main.f26f4156.chunk.css.map",
+    "static/js/2.856566ce.chunk.js.LICENSE": "/vin-decoder/static/js/2.856566ce.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50e0ba54.js",
+    "static/js/2.856566ce.chunk.js",
+    "static/css/main.f26f4156.chunk.css",
+    "static/js/main.84938c7a.chunk.js"
+  ]
+}
